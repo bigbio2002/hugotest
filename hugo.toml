@@ -1,0 +1,4 @@
+baseURL = 'https://openlettertonsa.com/'
+languageCode = 'en-us'
+title = 'An Open Letter to the N.S.A.'
+theme = 'ananke'
