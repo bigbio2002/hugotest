@@ -1,8 +1,9 @@
-+++
-date = '2025-01-08T05:51:59Z'
-draft = true
-title = 'Getting Involved...'
-+++
+---
+date: 2025-01-08T05:51:59-05:00
+draft: true
+title: Getting Involved...
+---
+
 Have you ever been in a situation where you were in some kind of peril and you wished there was someone to help you? *Hey, but look!* It's a bystanderapproaching! But they avoid making eye contact with you. They speed up their pace and walk right past you, your hopes now rapidly fading, turning down the next street to disappear. However dire your predicament might be, that bystander didn't want to *get involved* and risk any of your drama spilling into their picture-perfect life.
 
 Here's another example. Let's say you're out somewhere with your partner, having a nice date, but then you start to hear some angry shouting in the vicinity. You look up and see another couple across the street, but they aren't having nearly as nice of a day together. You hear the other *gentleman* yelling at the "stupid bitch" about something or other as she follows him storming away, nearly in tears, apologizing and trying to explain herself to him. Something she said must have irked him, because he immediately stops and does a 180 to confront her directly. He screams his piece at her about how of she had obeyed him, then there would be no problem and she wouldn't have made him so angry. She tries to speak up again to defend herself, in the least-confrontational way possible, when, **SMACK!** He slaps her across the face in broad daylight, telling her to "shut the fuck up" when he's talking to her.
