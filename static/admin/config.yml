@@ -1,0 +1,46 @@
+site_url: https://www.openlettertonsa.com
+search: false
+backend:
+  name: github
+  branch: master
+  repo: "bigbio2002/decap-proxy"
+  base_url: https://decap-proxy.proxy.bareback.party
+  auth_endpoint: auth
+  cms_label_prefix: "decap-cms/"
+media_folder: "static/images"
+public_folder: "/images"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+secret: gloas-03d57a9d46d2312e6f4512bf209bcc641a7573f5c35da7b811d38c8209c9eeb7
